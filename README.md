@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Patrick Gannon
+- 👀 I’m interested in C#/C++ primarily in Unity development or Unreal development
+- 🌱 I’m currently learning Unity Engine
+- 📫 How to reach me: On here is fine!
