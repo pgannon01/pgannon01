@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Patrick Gannon
-- 👀 I’m interested in C#/C++ coding!
-- 🌱 I’m currently learning Unity Engine to teach me C# coding practices, but also dabbling in UE4 for C++!
+- 👀 I'm a Junior Software Dev interested in C#, C++ and Java!
+- 🌱 I’m currently learning Java through various projects, while also trying to build and expand upon my C# and C++ skills!
 - 📫 How to reach me: On here is fine!
